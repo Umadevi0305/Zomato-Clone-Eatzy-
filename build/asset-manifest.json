@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Zomato-Clone-Eatzy-/static/css/main.de67c9a3.css",
+    "main.js": "/Zomato-Clone-Eatzy-/static/js/main.430809da.js",
+    "static/media/kfc.avif": "/Zomato-Clone-Eatzy-/static/media/kfc.5adebb64a9e01f08b98d.avif",
+    "static/media/chicken.webp": "/Zomato-Clone-Eatzy-/static/media/chicken.3155a7f5316112970acd.webp",
+    "static/media/noodles.avif": "/Zomato-Clone-Eatzy-/static/media/noodles.d56a664db0ccd45e9131.avif",
+    "static/media/biryani.avif": "/Zomato-Clone-Eatzy-/static/media/biryani.3407e15ad4634b15bb58.avif",
+    "static/media/wowMomo.avif": "/Zomato-Clone-Eatzy-/static/media/wowMomo.459168b146088773fc64.avif",
+    "static/media/laPinozPizza.avif": "/Zomato-Clone-Eatzy-/static/media/laPinozPizza.eec1c348da9bb1cb5542.avif",
+    "static/media/idli.avif": "/Zomato-Clone-Eatzy-/static/media/idli.30cacbe3b113db846f45.avif",
+    "static/media/burger.avif": "/Zomato-Clone-Eatzy-/static/media/burger.941ef0dc810c9d273a8e.avif",
+    "static/media/rolls.avif": "/Zomato-Clone-Eatzy-/static/media/rolls.bcc7eb601c9c3088edda.avif",
+    "static/media/zomato404.avif": "/Zomato-Clone-Eatzy-/static/media/zomato404.c5fd3d2e3d93da1d92b7.avif",
+    "static/media/pizza.avif": "/Zomato-Clone-Eatzy-/static/media/pizza.ef65105e13f937410231.avif",
+    "static/media/pizzaHut.avif": "/Zomato-Clone-Eatzy-/static/media/pizzaHut.d04151faa221ca298690.avif",
+    "static/media/thali.avif": "/Zomato-Clone-Eatzy-/static/media/thali.359a5fb85c1757ac5077.avif",
+    "static/media/iceCream.avif": "/Zomato-Clone-Eatzy-/static/media/iceCream.d817498165192e1e04b4.avif",
+    "static/media/friedRice.avif": "/Zomato-Clone-Eatzy-/static/media/friedRice.100fe939b40f1e080c4f.avif",
+    "static/media/cake.avif": "/Zomato-Clone-Eatzy-/static/media/cake.8ae2dd0361fb32dc3a93.avif",
+    "static/media/emptyCart.webp": "/Zomato-Clone-Eatzy-/static/media/emptyCart.0ade70c16682ac3badc0.webp",
+    "static/media/burgerKing.avif": "/Zomato-Clone-Eatzy-/static/media/burgerKing.98c4a19e70ac08598d4c.avif",
+    "static/media/momos.avif": "/Zomato-Clone-Eatzy-/static/media/momos.78fab9f06a5956ebb633.avif",
+    "static/media/kwalityWalls.avif": "/Zomato-Clone-Eatzy-/static/media/kwalityWalls.3eec15e4b4a97607b53f.avif",
+    "static/media/arsalan.avif": "/Zomato-Clone-Eatzy-/static/media/arsalan.2f18e29fd95e77529d39.avif",
+    "static/media/placeholder.webp": "/Zomato-Clone-Eatzy-/static/media/placeholder.1fb418adf6a1202e7bc2.webp",
+    "static/media/dominosPizza.avif": "/Zomato-Clone-Eatzy-/static/media/dominosPizza.be5c350cbea0e6eb092b.avif",
+    "static/media/subway.avif": "/Zomato-Clone-Eatzy-/static/media/subway.ac4f826e0faeff1a546a.avif",
+    "static/media/deliveryBW.webp": "/Zomato-Clone-Eatzy-/static/media/deliveryBW.bd9438a547a138105c11.webp",
+    "static/media/edabba.avif": "/Zomato-Clone-Eatzy-/static/media/edabba.f5f82b24f1e5cac78571.avif",
+    "static/media/diningOut.avif": "/Zomato-Clone-Eatzy-/static/media/diningOut.fa0beebd7581642560ed.avif",
+    "static/media/nightlife.webp": "/Zomato-Clone-Eatzy-/static/media/nightlife.f6e8a2fc0384c70b7151.webp",
+    "index.html": "/Zomato-Clone-Eatzy-/index.html",
+    "main.de67c9a3.css.map": "/Zomato-Clone-Eatzy-/static/css/main.de67c9a3.css.map",
+    "main.430809da.js.map": "/Zomato-Clone-Eatzy-/static/js/main.430809da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de67c9a3.css",
+    "static/js/main.430809da.js"
+  ]
+}
